@@ -7,7 +7,7 @@ sub_configs = {
     "fty.json": {"name": "03_饭太硬", "url": "http://www.饭太硬.com/tv"},
     "wex.json": {"name": "04_王二小", "url": "https://9280.kstore.vip/newwex.json"},
     "ok01.json": {"name": "05_OK线路", "url": "https://10352.kstore.vip/tv"},
-    "ok02.json": {"name": "06_OK备用", "url": "http://ok521.top/tv"},
+    "ok02.json": {"name": "06_OK备用1", "url": "http://ok521.top/tv"},
     "ok03.json": {"name": "07_OK备用2", "url": "http://ok213.top/ok"},
     "cns.json": {"name": "08_菜妮丝", "url": "https://tv.xn--yhqu5zs87a.top"}
 }
